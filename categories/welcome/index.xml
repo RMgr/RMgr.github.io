@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome - Bucket of Squids</title>
-    <link>http://bucketofsquids.com/categories/welcome/</link>
+    <link>https://rmgr.github.com/categories/welcome/</link>
     <description>Recent content in Welcome on Bucket of Squids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Feb 2019 18:56:33 +1030</lastBuildDate>
     
-        <atom:link href="http://bucketofsquids.com/categories/welcome/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rmgr.github.com/categories/welcome/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome</title>
-      <link>http://bucketofsquids.com/post/welcome/</link>
+      <link>https://rmgr.github.com/post/welcome/</link>
       <pubDate>Mon, 18 Feb 2019 18:56:33 +1030</pubDate>
       
-      <guid>http://bucketofsquids.com/post/welcome/</guid>
+      <guid>https://rmgr.github.com/post/welcome/</guid>
       <description></description>
     </item>
   </channel>

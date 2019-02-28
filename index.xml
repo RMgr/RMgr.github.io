@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bucket of Squids</title>
-    <link>http://bucketofsquids.com/</link>
+    <link>https://rmgr.github.com/</link>
     <description>Recent content on Bucket of Squids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Feb 2019 20:14:11 +1030</lastBuildDate>
     
-        <atom:link href="http://bucketofsquids.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rmgr.github.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anomalous Sector Crawl - Intro</title>
-      <link>http://bucketofsquids.com/post/anomalous_sector_crawl_intro/</link>
+      <link>https://rmgr.github.com/post/anomalous_sector_crawl_intro/</link>
       <pubDate>Mon, 18 Feb 2019 20:14:11 +1030</pubDate>
       
-      <guid>http://bucketofsquids.com/post/anomalous_sector_crawl_intro/</guid>
+      <guid>https://rmgr.github.com/post/anomalous_sector_crawl_intro/</guid>
       <description>I get really stoked on the S.T.A.L.K.E.R games on and off as time goes on. I love the universe and the setting, I think it&amp;rsquo;s a really interesting game environment.
 It got me thinking about how the setting would go in a tabletop game. I did some reading and it looks like there isn&amp;rsquo;t much in the way of existing S.T.A.L.K.E.R material out there. I ran across a ruleset that originated on 4chan&amp;rsquo;s /tg/ but I found their take to try to be too close to the PC game.</description>
     </item><item>
       <title>Welcome</title>
-      <link>http://bucketofsquids.com/post/welcome/</link>
+      <link>https://rmgr.github.com/post/welcome/</link>
       <pubDate>Mon, 18 Feb 2019 18:56:33 +1030</pubDate>
       
-      <guid>http://bucketofsquids.com/post/welcome/</guid>
+      <guid>https://rmgr.github.com/post/welcome/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories - Bucket of Squids</title>
-    <link>http://bucketofsquids.com/categories/</link>
+    <link>https://rmgr.github.com/categories/</link>
     <description>Recent content in Categories on Bucket of Squids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Feb 2019 20:14:11 +1030</lastBuildDate>
     
-        <atom:link href="http://bucketofsquids.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rmgr.github.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anomalous Sector Crawl</title>
-      <link>http://bucketofsquids.com/categories/anomalous-sector-crawl/</link>
+      <link>https://rmgr.github.com/categories/anomalous-sector-crawl/</link>
       <pubDate>Mon, 18 Feb 2019 20:14:11 +1030</pubDate>
       
-      <guid>http://bucketofsquids.com/categories/anomalous-sector-crawl/</guid>
+      <guid>https://rmgr.github.com/categories/anomalous-sector-crawl/</guid>
       <description></description>
     </item><item>
       <title>Asc</title>
-      <link>http://bucketofsquids.com/categories/asc/</link>
+      <link>https://rmgr.github.com/categories/asc/</link>
       <pubDate>Mon, 18 Feb 2019 20:14:11 +1030</pubDate>
       
-      <guid>http://bucketofsquids.com/categories/asc/</guid>
+      <guid>https://rmgr.github.com/categories/asc/</guid>
       <description></description>
     </item><item>
       <title>General</title>
-      <link>http://bucketofsquids.com/categories/general/</link>
+      <link>https://rmgr.github.com/categories/general/</link>
       <pubDate>Mon, 18 Feb 2019 18:56:33 +1030</pubDate>
       
-      <guid>http://bucketofsquids.com/categories/general/</guid>
+      <guid>https://rmgr.github.com/categories/general/</guid>
       <description></description>
     </item><item>
       <title>Welcome</title>
-      <link>http://bucketofsquids.com/categories/welcome/</link>
+      <link>https://rmgr.github.com/categories/welcome/</link>
       <pubDate>Mon, 18 Feb 2019 18:56:33 +1030</pubDate>
       
-      <guid>http://bucketofsquids.com/categories/welcome/</guid>
+      <guid>https://rmgr.github.com/categories/welcome/</guid>
       <description></description>
     </item>
   </channel>
