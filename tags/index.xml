@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags - Bucket of Squids</title>
-    <link>https://rmgr.github.com/tags/</link>
+    <link>http://www.bucketofsquids.com/tags/</link>
     <description>Recent content in Tags on Bucket of Squids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="https://rmgr.github.com/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.bucketofsquids.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
