@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>http://www.bucketofsquids.com/post/welcome/</loc>
-    <lastmod>2019-02-18T18:56:33+10:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.bucketofsquids.com/categories/anomalous-sector-crawl/</loc>
     <lastmod>2019-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -52,12 +47,6 @@
   </url>
   
   <url>
-    <loc>http://www.bucketofsquids.com/categories/general/</loc>
-    <lastmod>2019-02-18T18:56:33+10:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.bucketofsquids.com/post/</loc>
     <lastmod>2019-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -65,12 +54,6 @@
   
   <url>
     <loc>http://www.bucketofsquids.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.bucketofsquids.com/categories/welcome/</loc>
-    <lastmod>2019-02-18T18:56:33+10:30</lastmod>
     <priority>0</priority>
   </url>
   
