@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>general - Bucket of Squids</title>
-    <link>http://www.bucketofsquids.com/categories/general/</link>
-    <description>Recent content in general on Bucket of Squids</description>
+    <title>The Black Hack - Bucket of Squids</title>
+    <link>http://www.bucketofsquids.com/categories/the-black-hack/</link>
+    <description>Recent content in The Black Hack on Bucket of Squids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Apr 2019 20:18:04 +0930</lastBuildDate>
     
-        <atom:link href="http://www.bucketofsquids.com/categories/general/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.bucketofsquids.com/categories/the-black-hack/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mutations</title>
@@ -17,13 +17,6 @@
       <guid>http://www.bucketofsquids.com/post/mutations/</guid>
       <description>I&amp;rsquo;ve been thinking a lot about a campaign with a body horror angle. The following table is obviously not going to be suitable for your average game. A game where the players are going in aware of the fact that their character might not make it out totally who they were going in sounds pretty interesting to me though&amp;hellip;
 Roll 1d6/2 on the mutation families and then roll 1d6 on the mutations within that family.</description>
-    </item><item>
-      <title>Welcome</title>
-      <link>http://www.bucketofsquids.com/post/welcome/</link>
-      <pubDate>Mon, 18 Feb 2019 18:56:33 +1030</pubDate>
-      
-      <guid>http://www.bucketofsquids.com/post/welcome/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

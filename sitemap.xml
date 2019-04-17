@@ -3,6 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.bucketofsquids.com/</loc>
+    <lastmod>2019-04-17T20:18:04+09:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.bucketofsquids.com/categories/</loc>
+    <lastmod>2019-04-17T20:18:04+09:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.bucketofsquids.com/categories/horror/</loc>
+    <lastmod>2019-04-17T20:18:04+09:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.bucketofsquids.com/post/mutations/</loc>
+    <lastmod>2019-04-17T20:18:04+09:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.bucketofsquids.com/post/</loc>
+    <lastmod>2019-04-17T20:18:04+09:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.bucketofsquids.com/categories/the-black-hack/</loc>
+    <lastmod>2019-04-17T20:18:04+09:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.bucketofsquids.com/categories/general/</loc>
+    <lastmod>2019-04-17T20:18:04+09:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.bucketofsquids.com/categories/asc/</loc>
     <lastmod>2019-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -17,24 +58,6 @@
   <url>
     <loc>http://www.bucketofsquids.com/post/anomalous_sector_crawl_anomalies/</loc>
     <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.bucketofsquids.com/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.bucketofsquids.com/categories/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.bucketofsquids.com/post/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -55,12 +78,6 @@
   <url>
     <loc>http://www.bucketofsquids.com/post/welcome/</loc>
     <lastmod>2019-02-18T18:56:33+10:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.bucketofsquids.com/categories/general/</loc>
-    <lastmod>2019-02-18T18:56:33+10:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
