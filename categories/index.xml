@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories - Bucket of Squids</title>
@@ -6,23 +5,37 @@
     <description>Recent content in Categories on Bucket of Squids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Feb 2019 20:14:11 +1030</lastBuildDate>
     
         <atom:link href="http://www.bucketofsquids.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>ASC</title>
+      <link>http://www.bucketofsquids.com/categories/asc/</link>
+      <pubDate>Mon, 18 Feb 2019 20:14:11 +1030</pubDate>
+      
+      <guid>http://www.bucketofsquids.com/categories/asc/</guid>
+      <description></description>
+    </item><item>
       <title>Anomalous Sector Crawl</title>
       <link>http://www.bucketofsquids.com/categories/anomalous-sector-crawl/</link>
-      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Feb 2019 20:14:11 +1030</pubDate>
       
       <guid>http://www.bucketofsquids.com/categories/anomalous-sector-crawl/</guid>
       <description></description>
     </item><item>
-      <title>Asc</title>
-      <link>http://www.bucketofsquids.com/categories/asc/</link>
-      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <title>general</title>
+      <link>http://www.bucketofsquids.com/categories/general/</link>
+      <pubDate>Mon, 18 Feb 2019 18:56:33 +1030</pubDate>
       
-      <guid>http://www.bucketofsquids.com/categories/asc/</guid>
+      <guid>http://www.bucketofsquids.com/categories/general/</guid>
+      <description></description>
+    </item><item>
+      <title>welcome</title>
+      <link>http://www.bucketofsquids.com/categories/welcome/</link>
+      <pubDate>Mon, 18 Feb 2019 18:56:33 +1030</pubDate>
+      
+      <guid>http://www.bucketofsquids.com/categories/welcome/</guid>
       <description></description>
     </item>
   </channel>
